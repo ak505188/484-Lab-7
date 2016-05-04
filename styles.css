@@ -1,0 +1,28 @@
+#employee {
+	font-size: 11pt;
+}
+
+#fieldForm {
+	border-width: 1px;
+	display: inline-block;
+}
+
+legend {
+	color: #D00D2D;
+	font-size: 14pt;
+}
+
+input[type=text] {
+	background-color: #FCFCFC;
+	width: 70%;
+	height: 100%;
+}
+
+#department {
+	width: 60%;
+}
+
+.employee_textfield {
+	font-size: 10pt;
+	font-weight: bold;
+}
